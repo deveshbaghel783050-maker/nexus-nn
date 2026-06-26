@@ -80,7 +80,7 @@ export default function TableBookingView({ onAddBooking, openNotification }: Tab
               Book a Slow Bench
             </h3>
             <p className="text-sm text-brand-outline font-sans">
-              We hold specific corners of our Mumbai sanctuary for slow collaboration, readings, or quiet mindful gatherings.
+              We hold specific corners of our JJ sanctuary for slow collaboration, readings, or quiet mindful gatherings.
             </p>
           </div>
 
@@ -291,7 +291,7 @@ export default function TableBookingView({ onAddBooking, openNotification }: Tab
               </label>
               <textarea
                 rows={2}
-                placeholder="Let us know what makes your Mumbai visit comfortable..."
+                placeholder="Let us know what makes your JJ visit comfortable..."
                 value={requests}
                 onChange={(e) => setRequests(e.target.value)}
                 className="w-full text-sm font-sans p-3 bg-brand-beige border border-[#ccc6bb]/40 rounded-xl text-brand-dark focus:outline-none focus:border-brand-matcha resize-none"
@@ -331,7 +331,7 @@ export default function TableBookingView({ onAddBooking, openNotification }: Tab
             <div className="flex justify-between items-start border-b border-[#ccc6bb]/30 pb-4 mb-4">
               <div>
                 <p className="text-[10px] tracking-widest text-brand-matcha font-bold uppercase">
-                  NN MUMBAI
+                  NN JJ
                 </p>
                 <h4 className="font-serif text-xl text-brand-dark leading-tight mt-1">
                   Table Pass
