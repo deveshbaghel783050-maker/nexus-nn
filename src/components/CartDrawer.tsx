@@ -299,7 +299,7 @@ export default function CartDrawer({
                     <div className="space-y-2">
                       <input
                         type="text"
-                        placeholder="Full Delivery Address in Mumbai, Mumbai"
+                        placeholder="Full Delivery Address in JJ, JJ"
                         value={address}
                         onChange={(e) => setAddress(e.target.value)}
                         className="w-full text-xs font-sans p-2.5 bg-brand-clay-light border border-[#ccc6bb]/40 rounded-xl text-brand-dark focus:outline-none"
