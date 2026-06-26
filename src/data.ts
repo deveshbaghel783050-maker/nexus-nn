@@ -153,7 +153,7 @@ export const MENU_ITEMS: MenuItem[] = [
   },
   {
     id: 'signature-noodles',
-    name: 'nn Signature Special',
+    name: 'NN Signature Special',
     price: 450.00,
     description: 'Wheat noodles hand-thrown and stir-fried in cast iron with aromatic toasted sesame, Sichuan soy, seasonal crunchy greens, finished with gold garlic crispy-bits and coriander ribbons.',
     image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuClp9mokXsJKFjxZUppXleCHNV-EMjGl6cmctRsgqtiv2wsz-kmv5Hi3UzcQgQ-q-U1CN6YO44vjUV_usjq12B9QwzHLb5UOhjApfbFsElkEo4Ber93ew5HlHlf2XlXANS3Yh9lQ2rIAsXsBJOwlovHXY32QM2NBr_my8gfzDLZhBqmY82Q2ZpIFzwXVe9kPxYP6e-a1YZecC7R3saHfn4VlyGHtHiJgoh3ruikW6MrqpmcelVsY02r3sEIzR5dfD8DzDQgfH6HoHc',
@@ -167,14 +167,14 @@ export const MENU_ITEMS: MenuItem[] = [
         options: [
           { name: 'Curated Medium Heat', price: 0 },
           { name: 'Mild & Soft Spice', price: 0 },
-          { name: 'nn Red Fiery (Sichuan Style)', price: 0 },
+          { name: 'NN Red Fiery (Sichuan Style)', price: 0 },
         ]
       }
     ]
   },
   {
     id: 'wellness-bowl',
-    name: 'Mumbai Wellness Bowl',
+    name: 'JJ Wellness Bowl',
     price: 380.00,
     description: 'Ancient grain quinoa, roasted butter-squash crescents, steamed broccoli tips, baby microgreens, organic pomegranate jewels, drizzled with warm, stone-ground ginger-tahini extract.',
     image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=600',
@@ -349,7 +349,7 @@ export const QUIZ_QUESTIONS: QuizQuestion[] = [
   },
   {
     id: 'mood',
-    text: 'How is the environment of Mumbai treating you today?',
+    text: 'How is the environment of JJ treating you today?',
     options: [
       { text: 'A warm sunny day, seeking something iced and chilled', value: 'iced', tagMatch: 'Iced' },
       { text: 'A slow cozy breeze, seeking warm therapeutic steam', value: 'warm', tagMatch: 'Latte' },
@@ -369,12 +369,12 @@ export const QUIZ_QUESTIONS: QuizQuestion[] = [
 export const MOKAI_GALLERY_SPACES = [
   {
     id: 'space-mures',
-    title: 'Experience nn Interior',
+    title: 'Experience NN Interior',
     description: 'Warm sandy plaster walls constructed using clay mud from Maharashtra merged with gallery-style frames of local Mumbai creators.',
     image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDiYLwZjPUPmfVXvZUTtZy_CwIp875H2jcYO2lSajin07MkcLyaOcb4EBSE-OFnPAfvg-GPbVMgVL9gWoQcdOTHtxCOUj-bt6T-iVc4hTRkkZQpkpRvDCvn8GJeEvGymN8eyf_KxOmFTgMPx1zii_v9trZhrOjtjRLAphfkGoXRqhxbhMOp-YGQJgtTOpLK-BkMgz49w8d35yszFYW-RTem1xEM5q60SV1eUEOnRuR_YXJI2oOi-zWnkMN5HXSlPVjXe1Dgg6kSHvs',
     spots: [
-      { x: 25, y: 35, title: 'Experience nn Wall', txt: 'Curated signage detailing Mokai’s journey from a humble local dream to a Mumbai coffee sanctuary.' },
-      { x: 50, y: 55, title: 'The Photo Frames', txt: 'Local creators showcase! Frames of the workers, the soil creators, and the local Mumbai community neighbors.' },
+      { x: 25, y: 35, title: 'Experience NN Wall', txt: 'Curated signage detailing Mokai’s journey from a humble local dream to a JJ coffee sanctuary.' },
+      { x: 50, y: 55, title: 'The Photo Frames', txt: 'Local creators showcase! Frames of the workers, the soil creators, and the local JJ community neighbors.' },
       { x: 75, y: 70, title: 'Sand Textured Plaster', txt: 'Lime-wash and sea sand mixed to create the earthy texture of the building, keeping it naturally breezy and cool.' }
     ]
   },
