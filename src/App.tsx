@@ -185,10 +185,10 @@ export default function App() {
             </div>
             <div>
               <h1 className="font-serif text-2xl font-bold tracking-tight text-brand-dark">
-                nn
+                NN
               </h1>
               <span className="text-[9px] font-mono uppercase tracking-widest text-brand-outline -mt-1 block">
-                MUMBAI
+                JJ
               </span>
             </div>
           </button>
@@ -325,10 +325,10 @@ export default function App() {
               <div className="max-w-2xl mx-auto md:mx-0">
                 <div className="inline-flex items-center gap-2 bg-brand-clay text-brand-pink-text px-4 py-1.5 rounded-full font-mono text-[10px] tracking-widest uppercase mb-4 shadow-sm border border-brand-outline/10">
                   <span className="w-2 h-2 bg-brand-matcha rounded-full animate-ping" />
-                  Mumbai • Mumbai
+                  JJ • JJ
                 </div>
                 <h2 className="font-serif text-4xl sm:text-6xl text-brand-dark tracking-tight leading-none mb-4">
-                  Experience nn.
+                  Experience NN.
                 </h2>
                 <p className="text-base sm:text-lg text-brand-outline font-sans max-w-lg leading-relaxed mb-8">
                   A sun-drenched sanctuary for hand-whisked matcha cups, sourdough pairings, organic space layout, and silent creative community.
@@ -361,7 +361,7 @@ export default function App() {
                   Hand-Textured Plaster Walls
                 </h3>
                 <p className="text-xs text-brand-outline font-sans">
-                  Hover or click on our active visual coordinates to learn the background story of our beautiful Mumbai furniture.
+                  Hover or click on our active visual coordinates to learn the background story of our beautiful JJ furniture.
                 </p>
               </div>
 
@@ -538,7 +538,7 @@ export default function App() {
                 Handcrafted Delights
               </h2>
               <p className="text-xs text-brand-outline font-sans leading-relaxed">
-                From organic edamame purées to slow-whisked Japanese ceremony matcha lattes, everything is made in Mumbai.
+                From organic edamame purées to slow-whisked Japanese ceremony matcha lattes, everything is made in JJ.
               </p>
             </div>
 
@@ -776,10 +776,10 @@ export default function App() {
           
           <div className="space-y-4">
             <h2 className="font-serif text-2xl text-brand-dark leading-none">
-              nn
+              NN
             </h2>
             <p className="text-xs text-brand-outline leading-relaxed font-sans max-w-xs">
-              © 2024 nn Mumbai. Handcrafted using eco-conscious Mumbai local clay and slow artisanal materials.
+              © 2024 NN JJ. Handcrafted using eco-conscious Mumbai local clay and slow artisanal materials.
             </p>
             <div className="flex items-center gap-3 text-brand-outline">
               <a href="https://instagram.com" className="hover:text-brand-dark" target="_blank" rel="noreferrer">
@@ -804,7 +804,7 @@ export default function App() {
               FIND US
             </h5>
             <ul className="text-xs text-brand-outline space-y-1.5 font-sans">
-              <li>Mumbai, Mumbai West</li>
+              <li>JJ, JJ West</li>
               <li>Mumbai, Maharashtra</li>
               <li>Opposite saint water hydrant code</li>
             </ul>
